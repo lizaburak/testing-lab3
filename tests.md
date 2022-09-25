@@ -44,16 +44,15 @@ Buying item from the bag.
 
 - Website https://znwr.ru/ is opened.
 - All possible popups are closed.
-- There is at least one item in the basket.
+- There is at least one item in the bag.
 
 #### Test steps:
 
-1. Click _Bag_ button.
-2. Change quantity of any item in the basket.
-3. Fill in the fields of the order form with correct data.
-4. Click the button "Proceed to payment".
-5. Fill in the card data with correct data.
-6. Click Pay button.
+1. Click "Bag" button in the header.
+2. Fill in the fields of the order form with correct data.
+3. Click the button "Proceed to payment".
+4. Fill in the card data with correct data.
+5. Click Pay button.
 
 #### Expected Result:
 
@@ -77,12 +76,12 @@ Deleting item from the bag.
 
 - Website https://znwr.ru/ is opened.
 - All possible popups are closed.
-- There is at least one item in the basket.
+- There is at least one item in the bag.
 
 #### Test steps:
 
-1. Click _Bag_ button.
-2. Click on the trashcan icon for the selected item.
+1. Click "Bag" button in the header.
+2. Click on the trashcan icon for item.
 
 #### Expected Result:
 
